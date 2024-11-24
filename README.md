@@ -72,13 +72,18 @@ Design an innovative system that:
 
 ### **1. Model Architecture**  
 Visualization of the system workflow from feature extraction to final prediction.
+![Arquitectura-Deteccion Somnolencia](https://github.com/user-attachments/assets/e95a465b-fe0f-4812-a1ba-4bf1349a0330)
 
 ### **2. Validation Results**  
 - **Confusion Matrix**: Representation of correct and incorrect predictions.  
 - **ROC Curve**: Analysis of the model’s ability to distinguish between classes.
+![Matriz de confusion](https://github.com/user-attachments/assets/3394ac25-6f46-4af1-8f0d-54694aea8268)
+![Curva ROC](https://github.com/user-attachments/assets/7acd6702-ee90-4f6d-82d5-f92f7490b4a4)
 
 ### **3. Precision Graphs**  
 Graphs illustrating the model’s performance improvement during training.
+![Perdida y Validacion- Deteccion Somnolencia](https://github.com/user-attachments/assets/aca02142-b299-47f7-b279-ef6cf84c6658)
+![Prediccion del Modelo](https://github.com/user-attachments/assets/21e10bda-ca14-4d44-979d-95aa5f8c88b1)
 
 ---
 
