@@ -88,4 +88,9 @@ Graphs illustrating the model’s performance improvement during training.
 ---
 
 ## 🌐 **Explore More**  
-Visit my repository to access the code and detailed results: [Project Repository](https://github.com/MayogaDev/Early-Detection-of-Driver-Drowsiness.git). 
+Visit my repository to access the code and detailed results: [Project Repository](https://github.com/MayogaDev/Early-Detection-of-Driver-Drowsiness.git).
+
+---
+
+## 👥 **Acknowledgments**  
+This project is proudly conducted in collaboration with the **Universidad Nacional de San Agustín de Arequipa**, with contributions from researchers and students dedicated to advancing accessibility technologies.  
