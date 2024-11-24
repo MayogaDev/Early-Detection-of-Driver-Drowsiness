@@ -83,4 +83,4 @@ Graphs illustrating the model’s performance improvement during training.
 ---
 
 ## 🌐 **Explore More**  
-Visit our repository to access the code and detailed results: [Project Repository](https://github.com/MayogaDev/drowsiness-detection). 
+Visit our repository to access the code and detailed results: [Project Repository](https://github.com/MayogaDev/Early-Detection-of-Driver-Drowsiness.git). 
